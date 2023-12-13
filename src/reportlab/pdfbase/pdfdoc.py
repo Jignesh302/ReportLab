@@ -82,7 +82,7 @@ Pages = "Pages"
 
 # for % substitutions
 LINEENDDICT = {"LINEEND": LINEEND, "PERCENT": "%"}
-PDF_VERSION_DEFAULT = (1, 3)
+PDF_VERSION_DEFAULT = (1, 7)
 PDF_SUPPORT_VERSION = dict(     #map keyword to min version that supports it
     transparency = (1, 4),
     )
